@@ -25,7 +25,7 @@ func GetIgnoreFolders() []string {
 		"CommonProgramFiles",
 	}
 
-	// Maybe this preset should be removed on walk time or something like that
+	// Maybe this preset should be removed on walk time
 	folders := []string{
 		".lnk",
 		".url",
