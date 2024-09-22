@@ -13,7 +13,7 @@ import (
 func main() {
 	badger, err := storage.New()
 	if err != nil {
-		fmt.Printf("Error starting Badger database: %s\n", err.Error())
+		fmt.Printf("Error starting database: %s\n", err.Error())
 		return
 	}
 

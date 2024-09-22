@@ -1,7 +1,6 @@
 # Oppie
 
-This is my attempt to make a ransomware without seeing any source code or article on the topic.  
-Please, don't use this anywhere.
+This is my attempt to make a ransomware without seeing any source code or article on the topic.
 
 ## License
 
